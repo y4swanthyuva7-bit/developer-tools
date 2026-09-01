@@ -1,1 +1,47 @@
 # developer-tools
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>table</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>S.NO</th>
+                <th>name</th>
+                <th>age</th>
+                <th>branch</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>ravi</td>
+                <td>17</td>
+                <td>CSE</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>shannu</td>
+                <td>17</td>
+                <td>CSM</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>sai hemanth</td>
+                <td>10</td>
+                <td>EEE</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>gopi</td>
+                <td>15</td>
+                <td>MEC</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>shiva</td>
+                <td>18</td>
+                <td>SSC</td>
+            </tr>
+        </table>
+    </body>
+</html>
